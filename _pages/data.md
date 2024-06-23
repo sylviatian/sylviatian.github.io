@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data"
+title: "Replication Data"
 permalink: /datasets/
 author_profile: true
 ---
