@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find the most recent version of my CV [here](assets/cv.pdf). 
+Please find the most recent version of my CV [here](../assets/cv.pdf). 
 
 Education
 -----
