@@ -15,8 +15,7 @@ Work In Progress
   </details>
 
 
-* **_The Social Value of Rural Electrification: Evidence from Zambia
-_** (jointly with Niclas Moneke and Torsten Figueiredo Walter)
+* **_The Social Value of Rural Electrification: Evidence from Zambia_** (jointly with Niclas Moneke and Torsten Figueiredo Walter)
   <details>
   <summary>Show abstract</summary>
   Rural electrification suffers from high costs and low private adoption, but its social returns through public infrastructure remain understudied. We analyse the effects of electrifying schools and health facilities across 742 villages in rural Zambia, exploiting staggered grid roll-out and a government mandate to connect public infrastructure. Electrified schools attract more teachers who are younger, more female, and better qualified. Electrified health facilities gain refrigeration, deliver more vaccinations and live births.
